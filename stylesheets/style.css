@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: skyblue;
+}
+
+header{
+    text-align: center;
+    background-color: darkslateblue;
+    padding: 10px;
+    margin: auto ;
+}
+
+.Navigation{
+    justify-content: center;
+    display: flex;
+    list-style-type: none;
+    background-color: black ;
+    margin: 0;
+    padding: 10px;
+}
+
+.Navigation li{
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+}
